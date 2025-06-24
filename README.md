@@ -26,7 +26,7 @@ This project does **not** use the full OWID dataset. Instead, we extracted and u
 All data transformations and selections were made to simplify the schema design and focus the SQL-based analytical tasks.
 
 # Project Structure
-'''
+```
 project/
 │
 ├── data/                        # Raw source files (.xlsx) from OWID vaccination data
@@ -46,7 +46,7 @@ project/
 │   ├── task4_top10_total_administered.png
 │   └── task5_fully_vaccinated_trend.png
 └── README.md                   # Project overview
-'''
+```
 
 # Quering Task
 | Task | Description                                                        |
