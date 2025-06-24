@@ -11,8 +11,11 @@ This project demonstrates how to build a relational database from a real-world d
 
 # Dataset Description
 The original dataset is published by **Our World in Data** as part of a comprehensive global COVID-19 vaccination database.  
+
 [GitHub Repository](https://github.com/owid/covid-19-data/tree/master/public/data/vaccinations)  
+
 [Related Article (Nature)](https://www.nature.com/articles/s41562-021-01122-8)
+
 Dataset documentation: https://github.com/owid/covid-19-data/blob/master/public/data/vaccinations/README.md
 
 **Note**:  
